@@ -1,0 +1,25 @@
+# Project folder
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uilds/
+**/[Bb]uild/*
+**/[Gg]ame/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+
+# IDEs and etc
+*.vs/
+*.vscode/
+*.sln
+*.csproj
+*.suo
+*.unityproj
+*.blend1
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
